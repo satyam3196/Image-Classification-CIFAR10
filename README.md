@@ -1,4 +1,4 @@
-#CIFAR-10 Image Classification Using PyTorch
+# CIFAR-10 Image Classification Using PyTorch
 This repository contains a Python script to train a deep learning model on the CIFAR-10 dataset for image classification.
 
 ###About the Model
